@@ -14,6 +14,8 @@ origins = [
     "https://hrm-comapny-*.vercel.app",
     "https://h-m-dj-pb37.vercel.app",
     "https://h-m-dj-pb37-*.vercel.app",
+    "https://h-m-dj-9dmo.vercel.app",
+    "https://h-m-dj-9dmo-*.vercel.app",
 ]
 
 app.add_middleware(
