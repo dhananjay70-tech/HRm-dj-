@@ -177,8 +177,8 @@ HRM-Website/
 
 ## 👨‍💻 Developer
 
-**Rishav Kumar**
-- GitHub: [@Rishav5505](https://github.com/Rishav5505)
+**Dhananjay Kumar**
+- GitHub
 
 ## 📄 License
 
